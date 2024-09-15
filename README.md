@@ -3,6 +3,7 @@ A Java-based banking system that allows users to register, log in, deposit, with
 
 # Features
 User registration with email and phone number validation
+<br>
 Login functionality with password authentication
 Deposit, withdraw, and check balance features
 Transfer funds to other users
